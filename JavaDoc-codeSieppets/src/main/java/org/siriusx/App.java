@@ -1,4 +1,4 @@
-package org;
+package org.siriusx;
 
 /**
  * Hello Code Snippets App to show how to use it.
